@@ -3,8 +3,9 @@
     "dotenv": "^16.0.0",
     "koa": "^2.13.4",
     "koa-bodyparser": "^4.3.0",
-    "koa-mysql": "^1.0.3",
-    "koa-router": "^10.1.1"
+    "koa-json": "^2.0.2",
+    "koa-router": "^10.1.1",
+    "promise-mysql": "^5.1.0"
   },
   "name": "koa_rest",
   "version": "1.0.0",
